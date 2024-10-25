@@ -23,6 +23,7 @@ The project includes PCB design, firmware development for the MCU, training a YO
   <img src="4.%20Image/case.jpg" alt="Alt text" width="80%"/>
 </p>
 3. Software
+
 - Trainning YOLO v5 model for license plate detection.
 
 - Buid software interface license plate detection.
