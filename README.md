@@ -8,7 +8,7 @@ WiFi Module: RTL8720DN
 RFID/NFC Module: PN532
 IC MAX485
 <p align="center">
-  <img src="4.%20Image/pcb.jpg" alt="Alt text" width="80%"/>
+  <img src="4.%20Image/pcb.jpg" alt="Alt text" width="70%"/>
 </p>
 
 <p align="center">
