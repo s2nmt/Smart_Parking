@@ -9,8 +9,9 @@ RFID/NFC Module: PN532
 IC MAX485
 
 <p align="center">
-  <img src="4. Image/case" alt="Alt text" width="100%"/>
+  <img src="4.%20Image/case.jpg" alt="Alt text" width="100%"/>
 </p>
+
 
 
 **Author** Minh Tuan
