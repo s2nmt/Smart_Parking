@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=WKUP Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Member From Class: ClassName=U_Wireless_Master Member=HD3
+Removed Member From Class: ClassName=U_Modbus RTU Member=HD5
+Removed Member From Class: ClassName=U_Wireless_Master Member=R19
+Change Component Footprint: Designator=C21 Old Footprint=CN2.5 New Footprint=CN-SMD-0603
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=WKUP Pin=C21-2
+Added Member To Class: ClassName=U_MCU Member=Component HD2 Header 4
+Added Member To Class: ClassName=U_Modbus RTU Member=Component HD3 Header 2
+Added Member To Class: ClassName=U_Wireless_Master Member=Component HD4 Header 2
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R10 RF1206
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R12 7.5k
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R15 220
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R16 220
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R18 10K
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R20 4k7
+Added Member To Class: ClassName=U_Wireless_Master Member=Component R22 0
+Added Member To Class: ClassName=U_Wireless_Master Member=Component SW3 RST

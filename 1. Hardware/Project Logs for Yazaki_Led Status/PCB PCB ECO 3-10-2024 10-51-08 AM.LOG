@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=HD1 NewDesignator=HD2
+Change Component Designator: OldDesignator=HD2 NewDesignator=HD1
+Change Component Designator: OldDesignator=HD3 NewDesignator=HD4
+Change Component Designator: OldDesignator=HD4 NewDesignator=HD5
+Change Component Designator: OldDesignator=HD5 NewDesignator=HD3
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW4
+Change Component Description : Designator=TL1 Old Description=Actuating force: 1.8 N; Additional product specs: Vibrations 10 - 500 Hz/10 g; Board thickness (max.): 5 mm; Connection (components): Print; Contact type: 1 maker; Content: 1 pc(s); Dielectric strength: 250 V/AC/60 s; Electrical lifespan: 30000 Zyklen; Front panel cut-out: 6 x 3.5 mm; Functions (switches): momentary; Insulation resistance: 100 Mâ„ New Description=Actuating force: 1.8 N; Additional product specs: Vibrations 10 - 500 Hz/10 g; Board thickness (max.): 5 mm; Connection (components): Print; Contact type: 1 maker; Content: 1 pc(s); Dielectric strength: 250 V/AC/60 s; Electrical lifespan: 30000 Zyklen; Front panel cut-out: 6 x 3.5 mm; Functions (switches): momentary; Insulation resistance: 100 Mâ„|; Lighting type: None; Max. temperature: +70 °C; Min. temperature: -20 °C; Product size (length): 4.3 mm; Product size (width): 6 mm; Product type: Pushbutton; Switch features: Planar; Switch position: 1 x Off/(On); Switching current (max.): 0.05 A; Switching voltage: 12 V DC; Type (manufacturer type): PHAP3362; Type (misc.): Push button for through-hole mounting
+Add Component: Footprint Not Found CN-SMD-0603
+Add Component: Footprint Not Found RES-SMD-0603
+Add Component: Footprint Not Found SW1-SMD
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin SW2-2
+Added Pin To Net: NetName=WKUP Pin=U2-10
+Added Net: Name=WKUP
+Add Class Member: Failed to add class member : Component C21 100nF
+Add Class Member: Failed to add class member : Component R8 10k
+Add Class Member: Failed to add class member : Component SW2 RST
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

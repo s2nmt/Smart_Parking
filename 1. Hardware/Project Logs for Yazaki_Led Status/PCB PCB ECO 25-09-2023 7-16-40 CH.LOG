@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Add Pin To Net: Unknown Pin: Pin M1-101
+Added Room: Name=U_Led Status
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

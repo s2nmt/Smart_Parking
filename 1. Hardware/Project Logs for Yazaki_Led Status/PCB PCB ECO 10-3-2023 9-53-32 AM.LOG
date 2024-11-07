@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=EN_BW16 Pin=U3-3
+Removed Pin From Net: NetName=BW16_UART_RX Pin=U3-5
+Removed Pin From Net: NetName=3.3V Pin=U3-8
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Pin From Net: NetName=BW16_UART_TX Pin=U3-11
+Removed Member From Class: ClassName=U_Wireless_Master Member=U3
+Change Component Designator: OldDesignator=C28 NewDesignator=C23
+Change Component Designator: OldDesignator=C30 NewDesignator=C24
+Change Component Designator: OldDesignator=C31 NewDesignator=C25
+Added Component: Designator=U?(MODULE_BW16)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BW16/AI-Thinker/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AI-Thinker"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BW16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BW16/AI-Thinker/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN_BW16 Pin=U?-3
+Added Pin To Net: NetName=BW16_UART_RX Pin=U?-5
+Added Pin To Net: NetName=3.3V Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=BW16_UART_TX Pin=U?-11
+Added Member To Class: ClassName=U_Wireless_Master Member=Component U? BW16

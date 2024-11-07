@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=BW16_UART_RX Pin=C29-1
+Removed Pin From Net: NetName=BW16_UART_TX Pin=C29-2
+Removed Member From Class: ClassName=U_Wireless_Master Member=C29
+Added Component: Designator=C23(HDR2)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BW16_UART_RX Pin=C23-1
+Added Pin To Net: NetName=BW16_UART_TX Pin=C23-2
+Added Member To Class: ClassName=U_Wireless_Master Member=Component C23 mode
+Added Room: Name=U_Led Status
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

@@ -1,0 +1,39 @@
+Change Component Designator: OldDesignator=C22 NewDesignator=C23
+Change Component Designator: OldDesignator=C23 NewDesignator=C24
+Change Component Designator: OldDesignator=C24 NewDesignator=C25
+Change Component Designator: OldDesignator=C25 NewDesignator=C26
+Change Component Designator: OldDesignator=C26 NewDesignator=C27
+Change Component Designator: OldDesignator=C27 NewDesignator=C28
+Added Component: Designator=C22(JP2-CLOSED)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C22-2
+Add Pin To Net: Unknown Pin: Pin M1-101
+Change Net Name : Old Net Name=NetC27_1 New Net Name=NetC28_1
+Change Net Name : Old Net Name=NetC27_2 New Net Name=NetC28_2
+Change Net Name : Old Net Name=NetC27_3 New Net Name=NetC28_3
+Change Net Name : Old Net Name=NetC27_4 New Net Name=NetC28_4
+Change Net Name : Old Net Name=NetC27_5 New Net Name=NetC28_5
+Change Net Name : Old Net Name=NetC27_6 New Net Name=NetC28_6
+Change Net Name : Old Net Name=NetC27_7 New Net Name=NetC28_7
+Change Net Name : Old Net Name=NetC27_8 New Net Name=NetC28_8
+Change Net Name : Old Net Name=NetC27_9 New Net Name=NetC28_9
+Change Net Name : Old Net Name=NetC27_10 New Net Name=NetC28_10
+Change Net Name : Old Net Name=NetC27_15 New Net Name=NetC28_15
+Change Net Name : Old Net Name=NetC27_16 New Net Name=NetC28_16
+Change Net Name : Old Net Name=NetC27_17 New Net Name=NetC28_17
+Change Net Name : Old Net Name=NetC27_18 New Net Name=NetC28_18
+Change Net Name : Old Net Name=NetC27_19 New Net Name=NetC28_19
+Change Net Name : Old Net Name=NetC27_20 New Net Name=NetC28_20
+Change Net Name : Old Net Name=NetC27_21 New Net Name=NetC28_21
+Change Net Name : Old Net Name=NetC27_22 New Net Name=NetC28_22
+Change Net Name : Old Net Name=NetC27_23 New Net Name=NetC28_23
+Change Net Name : Old Net Name=NetC27_24 New Net Name=NetC28_24
+Added Member To Class: ClassName=U_MCU Member=Component C22 JP2

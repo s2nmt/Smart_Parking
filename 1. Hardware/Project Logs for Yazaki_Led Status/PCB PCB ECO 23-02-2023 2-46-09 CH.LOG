@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ESP32 Pin=C26-6
+Removed Pin From Net: NetName=ESP32 Pin=R22-1
+Added Pin To Net: NetName=3.3V Pin=C26-6
+Add Pin To Net: Unknown Pin: Pin M1-101
+Added Pin To Net: NetName=3.3V Pin=R22-1

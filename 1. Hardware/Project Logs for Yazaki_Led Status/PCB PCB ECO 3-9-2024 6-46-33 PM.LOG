@@ -1,0 +1,25 @@
+Change Footprint: Footprint Not Found JP4-C1T
+Change Footprint: Footprint Not Found JP4-C1T
+Add Component: Footprint Not Found JP4-C1T
+Add Component: Footprint Not Found Pin2
+Add Component: Footprint Not Found RES-SMD-0603
+Add Component: Footprint Not Found RES-SMD-0603
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C21-3
+Add Pin To Net: Unknown Pin: Pin C21-4
+Add Pin To Net: Unknown Pin: Pin C22-3
+Add Pin To Net: Unknown Pin: Pin C22-4
+Add Pin To Net: Unknown Pin: Pin C23-3
+Add Pin To Net: Unknown Pin: Pin C23-4
+Add Pin To Net: Unknown Pin: Pin LS1-1
+Add Pin To Net: Unknown Pin: Pin LS1-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Added Pin To Net: NetName=I2C1_SDA Pin=U2-46
+Add Class Member: Failed to add class member : Component C21 JP4
+Add Class Member: Failed to add class member : Component LS1 TMB12A05
+Add Class Member: Failed to add class member : Component R8 0k
+Add Class Member: Failed to add class member : Component R9 0k

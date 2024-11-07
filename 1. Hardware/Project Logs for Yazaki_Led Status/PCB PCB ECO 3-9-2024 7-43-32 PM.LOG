@@ -1,0 +1,32 @@
+Change Footprint: Footprint Not Found JP4-C1T
+Change Footprint: Footprint Not Found JP4-C1T
+Add Component: Footprint Not Found JP4-C1T
+Add Component: Footprint Not Found Pin2
+Added Component: Designator=R8(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C21-3
+Add Pin To Net: Unknown Pin: Pin C21-4
+Add Pin To Net: Unknown Pin: Pin C22-3
+Add Pin To Net: Unknown Pin: Pin C22-4
+Add Pin To Net: Unknown Pin: Pin C23-3
+Add Pin To Net: Unknown Pin: Pin C23-4
+Add Pin To Net: Unknown Pin: Pin LS1-1
+Add Pin To Net: Unknown Pin: Pin LS1-2
+Added Pin To Net: NetName=UART1_TX Pin=R8-1
+Added Pin To Net: NetName=UART1_RX Pin=R9-1
+Added Pin To Net: NetName=I2C1_SCL Pin=R9-2
+Added Pin To Net: NetName=3.3V Pin=U2-1
+Add Class Member: Failed to add class member : Component C21 JP4
+Add Class Member: Failed to add class member : Component LS1 TMB12A05
+Added Member To Class: ClassName=U_MCU Member=Component R8 0
+Added Member To Class: ClassName=U_MCU Member=Component R9 0

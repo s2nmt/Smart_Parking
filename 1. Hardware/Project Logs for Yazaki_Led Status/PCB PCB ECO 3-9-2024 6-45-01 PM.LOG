@@ -1,0 +1,49 @@
+Change Footprint: Footprint Not Found JP4-C1T
+Change Footprint: Footprint Not Found JP4-C1T
+Add Component: Footprint Not Found JP4-C1T
+Add Component: Footprint Not Found Pin2
+Add Component: Footprint Not Found RES-SMD-0603
+Add Component: Footprint Not Found RES-SMD-0603
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C21-3
+Add Pin To Net: Unknown Pin: Pin C21-4
+Add Pin To Net: Unknown Pin: Pin C22-3
+Add Pin To Net: Unknown Pin: Pin C22-4
+Add Pin To Net: Unknown Pin: Pin C23-3
+Add Pin To Net: Unknown Pin: Pin C23-4
+Add Pin To Net: Unknown Pin: Pin LS1-1
+Add Pin To Net: Unknown Pin: Pin LS1-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Added Member To Class: ClassName=U_MCU Member=Component C17 100nF
+Added Member To Class: ClassName=U_MCU Member=Component C19 20pF
+Added Member To Class: ClassName=U_MCU Member=Component C20 JP4
+Add Class Member: Failed to add class member : Component C21 JP4
+Added Member To Class: ClassName=U_Modbus RTU Member=Component C24 100nF
+Added Member To Class: ClassName=U_Modbus RTU Member=Component C25 100nF
+Added Member To Class: ClassName=U_Wireless_Master Member=Component C26 10µF
+Added Member To Class: ClassName=U_MCU Member=Component LED2 LED
+Added Member To Class: ClassName=U_Modbus RTU Member=Component LED3 LED
+Added Member To Class: ClassName=U_Modbus RTU Member=Component LED4 LED
+Add Class Member: Failed to add class member : Component LS1 TMB12A05
+Added Member To Class: ClassName=U_MCU Member=Component R7 1k
+Add Class Member: Failed to add class member : Component R8 0k
+Add Class Member: Failed to add class member : Component R9 0k
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R10 4k7
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R11 RF1206
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R12 220K
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R15 4k7
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R16 220
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R17 220
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R18 220
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R19 10K
+Added Member To Class: ClassName=U_Wireless_Master Member=Component R22 0
+Added Member To Class: ClassName=U_Wireless_Master Member=Component R23 0
+Added Member To Class: ClassName=U_MCU Member=Component U2 STM32F103C8T6
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

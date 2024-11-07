@@ -1,0 +1,9 @@
+Added Component: Designator=HD5(Header_2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Modbus_A1 Pin=HD5-1
+Added Pin To Net: NetName=Modbus_B1 Pin=HD5-2
+Added Member To Class: ClassName=U_Modbus RTU Member=Component HD5 Header 2
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=U_MCU Member=C24
+Removed Member From Class: ClassName=U_Wireless_Master Member=C28
+Add Pin To Net: Unknown Pin: Pin M1-101
+Added Pin To Net: NetName=mode Pin=C22-1
+Added Pin To Net: NetName=mode Pin=U2-43
+Added Net: Name=mode
+Added Member To Class: ClassName=U_MCU Member=Component C22 JP2
+Added Member To Class: ClassName=U_Modbus RTU Member=Component C23 100nF
+Added Member To Class: ClassName=U_Wireless_Master Member=Component C25 100nF
+Added Member To Class: ClassName=U_Wireless_Master Member=Component C27 1µF

@@ -1,0 +1,26 @@
+Added Component: Designator=C?(CN2.5)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-SMD-0603)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW1-SMD)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=WKUP Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=WKUP Pin=R?-2
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Member To Class: ClassName=U_MCU Member=Component C? 100nF
+Added Member To Class: ClassName=U_MCU Member=Component HD2 Header 4
+Added Member To Class: ClassName=U_Wireless_Master Member=Component HD4 Header 2
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R10 RF1206
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R12 7.5k
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R15 220
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R16 220
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R18 10K
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R20 4k7
+Added Member To Class: ClassName=U_MCU Member=Component R? 10k
+Added Member To Class: ClassName=U_Wireless_Master Member=Component SW3 RST
+Added Member To Class: ClassName=U_MCU Member=Component SW? RST

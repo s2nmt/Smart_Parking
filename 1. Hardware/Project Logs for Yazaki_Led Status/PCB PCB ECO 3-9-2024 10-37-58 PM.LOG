@@ -1,0 +1,16 @@
+Change Component Comment : Designator=SW2 Old Comment=RST BW New Comment=RST
+Added Component: Designator=SW4(SW-GAT)
+Add component (AddParameter): Name = "Value"; Value = "Switch 102 On Board"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IN_2 Pin=SW4-2
+Change Net Name : Old Net Name=IN_2 New Net Name=NetC1_1
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=SW4-3
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetJDC1_1 Pin=JDC1-1
+Added Pin To Net: NetName=NetJDC1_1 Pin=SW4-1
+Added Net: Name=NetJDC1_1
+Added Member To Class: ClassName=U_Power Member=Component SW4 SW102B
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3.3V Pin=U2-1
+Added Component: Designator=*1(SPEAKER)
+Added Pin To Net: NetName=Buzzer Pin=*1-1
+Added Pin To Net: NetName=GND Pin=*1-2
+Added Pin To Net: NetName=CS Pin=C22-1
+Added Pin To Net: NetName=SPI1_MOSI Pin=C22-2
+Added Pin To Net: NetName=SPI1_MISO Pin=C22-3
+Added Pin To Net: NetName=SPI1_SCK Pin=C22-4
+Added Member To Class: ClassName=U_MCU Member=Component *1 Speaker

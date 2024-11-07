@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=UART4_RX Pin=SW3-2
+Change Component Comment : Designator=SW3 Old Comment=burn New Comment=RST
+Change Component Comment : Designator=SW2 Old Comment=rst New Comment=SW
+Added Pin To Net: NetName=BW16_UART_TX Pin=SW3-2
+Added Member To Class: ClassName=U_Power Member=Component J2 KF4
+Added Room: Name=U_Led Status
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=PN532_RST Pin=C21-1
+Removed Pin From Net: NetName=PN532_REQ Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C21-3
+Removed Pin From Net: NetName=3.3V Pin=C21-4
+Removed Pin From Net: NetName=CS Pin=JP1-1
+Removed Pin From Net: NetName=SPI1_MOSI Pin=JP1-2
+Removed Pin From Net: NetName=SPI1_MISO Pin=JP1-3
+Removed Pin From Net: NetName=SPI1_SCK Pin=JP1-4
+Removed Pin From Net: NetName=I2C1_SCL Pin=JP1-5
+Removed Pin From Net: NetName=I2C1_SDA Pin=JP1-6
+Removed Pin From Net: NetName=3.3V Pin=JP1-7
+Removed Pin From Net: NetName=GND Pin=JP1-8
+Change Component Footprint: Designator=JP1 Old Footprint=CON8 New Footprint=JP8
+Change Component Comment : Designator=JP1 Old Comment=Jump Ðon Ð?c 2.54 New Comment=2.54_8P
+Change component parameters: Designator = "JP1" ("JP1"); Footprint = "CON8"; UniqueID = "\CMCIEMWU\WKFVJJXP" ("\CMCIEMWU\WKFVJJXP")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found JP4
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Added Member To Class: ClassName=U_Modbus RTU Member=Component C22 100nF
+Added Member To Class: ClassName=U_Modbus RTU Member=Component C23 100nF
+Added Member To Class: ClassName=U_Wireless_Master Member=Component C24 10µF
+Add Class Member: Failed to add class member : Component J1 2.54_4P
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

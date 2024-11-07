@@ -1,0 +1,14 @@
+Added Member To Class: ClassName=U_MCU Member=Component C28 mode
+Added Member To Class: ClassName=U_Wireless_Master Member=Component C28 1µF
+Added Member To Class: ClassName=U_Wireless_Master Member=Component C32 mode
+Added Member To Class: ClassName=U_Wireless_Master Member=Component R20 4k7
+Added Member To Class: ClassName=U_Wireless_Master Member=Component R21 0
+Added Member To Class: ClassName=U_Wireless_Master Member=Component R22 0
+Added Member To Class: ClassName=U_Wireless_Master Member=Component SW2 SW
+Added Member To Class: ClassName=U_Wireless_Master Member=Component SW3 RST
+Added Member To Class: ClassName=U_Wireless_Master Member=Component U3 BW16
+Added Room: Name=U_Led Status
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

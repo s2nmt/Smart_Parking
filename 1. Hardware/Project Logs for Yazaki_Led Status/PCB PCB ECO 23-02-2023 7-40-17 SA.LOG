@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=UART4_RX Pin=C27-1
+Removed Pin From Net: NetName=UART4_TX Pin=C27-2
+Removed Member From Class: ClassName=U_Wireless_Master Member=C27
+Add Pin To Net: Unknown Pin: Pin M1-101

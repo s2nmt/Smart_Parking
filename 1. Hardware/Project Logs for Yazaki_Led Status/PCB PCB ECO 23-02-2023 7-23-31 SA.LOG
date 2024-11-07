@@ -1,0 +1,31 @@
+Added Pin To Net: NetName=UART4_RX Pin=C27-1
+Added Pin To Net: NetName=UART4_TX Pin=C27-2
+Add Pin To Net: Unknown Pin: Pin M1-101
+Added Member To Class: ClassName=U_Power Member=Component C14 100nF
+Added Member To Class: ClassName=U_MCU Member=Component C16 20pF
+Added Member To Class: ClassName=U_MCU Member=Component C20 100nF
+Added Member To Class: ClassName=U_MCU Member=Component R6 10k
+Added Member To Class: ClassName=U_MCU Member=Component R7 10k
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R9 RF1206
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R11 7.5k
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R15 220
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R17 10K
+Added Member To Class: ClassName=U_Modbus RTU Member=Component R19 4k7
+Added Member To Class: ClassName=U_Wireless_Master Member=Component R22 10k
+Added Member To Class: ClassName=U_Wireless_Master Member=Component R23 0
+Added Member To Class: ClassName=U_Led Status Member=Component R25 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R29 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R32 330
+Added Member To Class: ClassName=U_Led Status Member=Component R33 330
+Added Member To Class: ClassName=U_Led Status Member=Component R38 330
+Added Member To Class: ClassName=U_Led Status Member=Component R57 330
+Added Member To Class: ClassName=U_Led Status Member=Component R58 330
+Added Member To Class: ClassName=U_Led Status Member=Component R63 330
+Added Member To Class: ClassName=U_Led Status Member=Component R67 330
+Added Member To Class: ClassName=U_Led Status Member=Component R69 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R70 330
+Added Member To Class: ClassName=U_Led Status Member=Component R72 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R75 330
+Added Member To Class: ClassName=U_Led Status Member=Component R78 330
+Added Member To Class: ClassName=U_Led Status Member=Component R82 330
+Added Member To Class: ClassName=U_Led Status Member=Component R83 330

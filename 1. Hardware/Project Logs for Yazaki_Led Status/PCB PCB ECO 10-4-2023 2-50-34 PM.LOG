@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=UART4_RX Pin=R20-1
+Removed Member From Class: ClassName=U_Wireless_Master Member=R20
+Change Component Comment : Designator=C28 Old Comment=1µF New Comment=10µF
+Change Component Comment : Designator=SW3 Old Comment=burn New Comment=RST
+Change Component Comment : Designator=SW2 Old Comment=rst New Comment=SW
+Change Component Designator: OldDesignator=C32 NewDesignator=C29
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change component parameters: Designator = "C28" ("C28"); Footprint = "CAPC1608X90N"; UniqueID = "\OLHIBAMD\SCHXCEQG" ("\OLHIBAMD\SCHXCEQG")
+Change component parameters (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GMK107AB7105KAHT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pcs 2"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price 2"; Value = "1800"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "http://www.tme.vn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "587-3352-6-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "http://www.tme.vn/Product.aspx?id=728#page=pro_info"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "35V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=UART4_RX Pin=SW3-2
+Added Room: Name=U_Led Status
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

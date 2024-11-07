@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PN532_RST Pin=C21-1
+Removed Pin From Net: NetName=PN532_REQ Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C21-3
+Removed Pin From Net: NetName=3.3V Pin=C21-4
+Removed Member From Class: ClassName=U_MCU Member=C21
+Added Component: Designator=HD1(Header_4)
+Add component (AddParameter): Name = "Value"; Value = "Header 4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PN532_RST Pin=HD1-1
+Added Pin To Net: NetName=PN532_REQ Pin=HD1-2
+Added Pin To Net: NetName=GND Pin=HD1-3
+Added Pin To Net: NetName=3.3V Pin=HD1-4
+Added Member To Class: ClassName=U_MCU Member=Component HD1 Header 4
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

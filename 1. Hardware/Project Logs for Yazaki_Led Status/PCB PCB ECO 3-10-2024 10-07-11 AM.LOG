@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=UART2_TX Pin=HD3-2
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

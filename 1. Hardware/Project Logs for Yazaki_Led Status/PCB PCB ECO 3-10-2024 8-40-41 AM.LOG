@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=UART1_TX Pin=R8-1
+Removed Pin From Net: NetName=I2C1_SDA Pin=R8-2
+Removed Pin From Net: NetName=UART1_RX Pin=R9-1
+Removed Pin From Net: NetName=I2C1_SCL Pin=R9-2
+Removed Member From Class: ClassName=U_MCU Member=R8
+Removed Member From Class: ClassName=U_MCU Member=R9
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

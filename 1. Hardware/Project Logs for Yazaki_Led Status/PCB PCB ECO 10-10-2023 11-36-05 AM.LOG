@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BW16_UART_TX Pin=SW3-1
+Removed Pin From Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=BW16_UART_TX Pin=SW3-2
+Added Room: Name=U_Led Status
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

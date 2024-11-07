@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=UART2_RX Pin=HD4-1
+Removed Pin From Net: NetName=UART2_TX Pin=HD4-2
+Removed Pin From Net: NetName=UART2_RX Pin=R21-1
+Removed Pin From Net: NetName=UART2_TX Pin=R22-1
+Removed Pin From Net: NetName=EN_BW Pin=SW3-2
+Removed Pin From Net: NetName=EN_BW Pin=U3-3
+Added Pin To Net: NetName=EN_BW16 Pin=SW3-2
+Added Pin To Net: NetName=EN_BW16 Pin=U3-3
+Added Net: Name=EN_BW16
+Added Pin To Net: NetName=UART4_RX Pin=HD4-1
+Added Pin To Net: NetName=UART4_RX Pin=R21-1
+Added Net: Name=UART4_RX
+Added Pin To Net: NetName=UART4_TX Pin=HD4-2
+Added Pin To Net: NetName=UART4_TX Pin=R22-1
+Added Net: Name=UART4_TX
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

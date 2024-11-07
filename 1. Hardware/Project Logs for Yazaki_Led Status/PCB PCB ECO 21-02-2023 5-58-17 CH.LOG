@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=led 1 Pin=U2-15
+Removed Pin From Net: NetName=led 2 Pin=U2-16
+Removed Pin From Net: NetName=led 3 Pin=U2-17
+Removed Pin From Net: NetName=led 4 Pin=U2-18
+Removed Pin From Net: NetName=led 6 Pin=U2-19
+Removed Pin From Net: NetName=led 7 Pin=U2-20
+Removed Pin From Net: NetName=led 8 Pin=U2-21
+Removed Pin From Net: NetName=led 16 Pin=U2-22
+Removed Pin From Net: NetName=led 17 Pin=U2-23
+Removed Pin From Net: NetName=led 18 Pin=U2-24
+Removed Pin From Net: NetName=led 19 Pin=U2-25
+Removed Pin From Net: NetName=led 20 Pin=U2-26
+Removed Pin From Net: NetName=led 5 Pin=U2-28
+Removed Pin From Net: NetName=led 9 Pin=U2-42
+Removed Pin From Net: NetName=led 10 Pin=U2-43
+Removed Pin From Net: NetName=led 11 Pin=U2-44
+Removed Pin From Net: NetName=led 12 Pin=U2-45
+Removed Pin From Net: NetName=led 13 Pin=U2-46
+Removed Pin From Net: NetName=led 14 Pin=U2-47
+Removed Pin From Net: NetName=led 15 Pin=U2-48
+Add Pin To Net: Unknown Pin: Pin M1-101

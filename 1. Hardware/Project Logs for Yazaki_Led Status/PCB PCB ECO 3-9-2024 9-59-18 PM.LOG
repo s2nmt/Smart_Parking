@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=PN532_RST Pin=HD1-1
+Removed Pin From Net: NetName=PN532_REQ Pin=HD1-2
+Removed Pin From Net: NetName=GND Pin=HD1-3
+Removed Pin From Net: NetName=3.3V Pin=HD1-4
+Removed Pin From Net: NetName=CS Pin=HD2-1
+Removed Pin From Net: NetName=SPI1_MOSI Pin=HD2-2
+Removed Pin From Net: NetName=SPI1_MISO Pin=HD2-3
+Removed Pin From Net: NetName=SPI1_SCK Pin=HD2-4
+Removed Pin From Net: NetName=I2C1_SCL Pin=HD2-5
+Removed Pin From Net: NetName=I2C1_SDA Pin=HD2-6
+Removed Pin From Net: NetName=3.3V Pin=HD2-7
+Removed Pin From Net: NetName=GND Pin=HD2-8
+Added Pin To Net: NetName=I2C1_SCL Pin=HD1-1
+Added Pin To Net: NetName=I2C1_SDA Pin=HD1-2
+Added Pin To Net: NetName=3.3V Pin=HD1-3
+Added Pin To Net: NetName=GND Pin=HD1-4
+Added Pin To Net: NetName=SPI1_SCK Pin=HD2-1
+Added Pin To Net: NetName=SPI1_MISO Pin=HD2-2
+Added Pin To Net: NetName=SPI1_MOSI Pin=HD2-3
+Added Pin To Net: NetName=CS Pin=HD2-4
+Added Pin To Net: NetName=3.3V Pin=HD2-5
+Added Pin To Net: NetName=GND Pin=HD2-6
+Added Pin To Net: NetName=PN532_REQ Pin=HD2-7
+Added Pin To Net: NetName=PN532_RST Pin=HD2-8
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

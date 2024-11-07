@@ -1,0 +1,37 @@
+Removed Member From Class: ClassName=U_MCU Member=C24
+Removed Member From Class: ClassName=U_Wireless_Master Member=C28
+Change Component Designator: OldDesignator=C23 NewDesignator=C22
+Change Component Designator: OldDesignator=C24 NewDesignator=C23
+Change Component Designator: OldDesignator=C25 NewDesignator=C24
+Change Component Designator: OldDesignator=C26 NewDesignator=C25
+Change Component Designator: OldDesignator=C27 NewDesignator=C26
+Change Component Designator: OldDesignator=C28 NewDesignator=C27
+Added Component: Designator=SB1(SB_0603)
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin M1-101
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetC27_1
+Change Net Name : Old Net Name=NetC28_2 New Net Name=NetC27_2
+Change Net Name : Old Net Name=NetC28_3 New Net Name=NetC27_3
+Change Net Name : Old Net Name=NetC28_4 New Net Name=NetC27_4
+Change Net Name : Old Net Name=NetC28_5 New Net Name=NetC27_5
+Change Net Name : Old Net Name=NetC28_6 New Net Name=NetC27_6
+Change Net Name : Old Net Name=NetC28_7 New Net Name=NetC27_7
+Change Net Name : Old Net Name=NetC28_8 New Net Name=NetC27_8
+Change Net Name : Old Net Name=NetC28_9 New Net Name=NetC27_9
+Change Net Name : Old Net Name=NetC28_10 New Net Name=NetC27_10
+Change Net Name : Old Net Name=NetC28_15 New Net Name=NetC27_15
+Change Net Name : Old Net Name=NetC28_16 New Net Name=NetC27_16
+Change Net Name : Old Net Name=NetC28_17 New Net Name=NetC27_17
+Change Net Name : Old Net Name=NetC28_18 New Net Name=NetC27_18
+Change Net Name : Old Net Name=NetC28_19 New Net Name=NetC27_19
+Change Net Name : Old Net Name=NetC28_20 New Net Name=NetC27_20
+Change Net Name : Old Net Name=NetC28_21 New Net Name=NetC27_21
+Change Net Name : Old Net Name=NetC28_22 New Net Name=NetC27_22
+Change Net Name : Old Net Name=NetC28_23 New Net Name=NetC27_23
+Change Net Name : Old Net Name=NetC28_24 New Net Name=NetC27_24
+Added Member To Class: ClassName=U_Modbus RTU Member=Component C22 100nF
+Added Member To Class: ClassName=U_Wireless_Master Member=Component C24 100nF
+Added Member To Class: ClassName=U_Wireless_Master Member=Component C26 1µF
+Added Member To Class: ClassName=U_MCU Member=Component SB1 Opened

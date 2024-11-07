@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=BW16_UART_RX Pin=R20-1
+Removed Pin From Net: NetName=UART4_TX Pin=R20-2
+Removed Pin From Net: NetName=BW16_UART_TX Pin=R21-1
+Removed Pin From Net: NetName=UART4_RX Pin=R21-2
+Removed Pin From Net: NetName=GND Pin=SW3-1
+Removed Pin From Net: NetName=BW16_UART_TX Pin=SW3-2
+Removed Pin From Net: NetName=BW16_UART_RX Pin=U3-5
+Removed Pin From Net: NetName=BW16_UART_TX Pin=U3-11
+Added Pin To Net: NetName=UART4_TX Pin=R20-1
+Added Pin To Net: NetName=BW16_UART_RX Pin=R20-2
+Added Pin To Net: NetName=UART4_RX Pin=R21-1
+Added Pin To Net: NetName=BW16_UART_TX Pin=R21-2
+Added Pin To Net: NetName=BW16_UART_TX Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=BW16_UART_RX Pin=U3-15
+Added Pin To Net: NetName=BW16_UART_TX Pin=U3-16
+Added Room: Name=U_Led Status
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

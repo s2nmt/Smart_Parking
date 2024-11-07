@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=TX_Log Pin=C25-2
+Removed Member From Class: ClassName=U_Wireless_Master Member=C25
+Removed Member From Class: ClassName=U_MCU Member=JP1
+Added Component: Designator=HD2(Header_8)
+Add component (AddParameter): Name = "Creat by"; Value = "VanDungEvn@Gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=HD3(Header_2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=HD4(Header_2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CS Pin=HD2-1
+Added Pin To Net: NetName=SPI1_MOSI Pin=HD2-2
+Added Pin To Net: NetName=SPI1_MISO Pin=HD2-3
+Added Pin To Net: NetName=SPI1_SCK Pin=HD2-4
+Added Pin To Net: NetName=I2C1_SCL Pin=HD2-5
+Added Pin To Net: NetName=I2C1_SDA Pin=HD2-6
+Added Pin To Net: NetName=3.3V Pin=HD2-7
+Added Pin To Net: NetName=GND Pin=HD2-8
+Added Pin To Net: NetName=UART2_RX Pin=HD3-1
+Added Pin To Net: NetName=TX_Log Pin=HD4-2
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-4
+Added Pin To Net: NetName=NetHD4_1 Pin=HD4-1
+Added Pin To Net: NetName=NetHD4_1 Pin=U3-5
+Added Net: Name=NetHD4_1
+Added Member To Class: ClassName=U_MCU Member=Component HD2 HD8
+Added Member To Class: ClassName=U_Wireless_Master Member=Component HD3 Header 2
+Added Member To Class: ClassName=U_Wireless_Master Member=Component HD4 Header 2
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

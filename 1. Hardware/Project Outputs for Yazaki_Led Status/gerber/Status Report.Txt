@@ -1,0 +1,32 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Yazaki_Led Status.PrjPcb]
+   Generated File[PCB.GTO]
+   Generated File[PCB.GTP]
+   Generated File[PCB.GTS]
+   Generated File[PCB.GTL]
+   Generated File[PCB.GBL]
+   Generated File[PCB.GBS]
+   Generated File[PCB.GBP]
+   Generated File[PCB.GBO]
+   Generated File[PCB.GM1]
+   Generated File[PCB.GM3]
+   Generated File[PCB.GM7]
+   Generated File[PCB.GM10]
+   Generated File[PCB.GM12]
+   Generated File[PCB.GM13]
+   Generated File[PCB.GM15]
+   Generated File[PCB.GKO]
+   Generated File[PCB.GPT]
+   Generated File[PCB.GPB]
+   Generated File[PCB.GD1]
+   Generated File[PCB.GG1]
+   Generated File[PCB.GM]
+   Generated File[PCB.EXTREP]
+   Generated File[PCB.REP]
+
+
+Files Generated   : 23
+Documents Printed : 0
+
+Finished Output Generation At 9:12:01 PM On 3/13/2024

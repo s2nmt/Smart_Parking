@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=U_Wireless_Master Member=C30
+Add Component: Footprint Not Found SW1-SMD
+Add Pin To Net: Unknown Pin: Pin SW3-1
+Add Pin To Net: Unknown Pin: Pin SW3-2
+Added Member To Class: ClassName=U_Modbus RTU Member=Component C26 100nF
+Added Member To Class: ClassName=U_Modbus RTU Member=Component C27 100nF
+Added Member To Class: ClassName=U_Wireless_Master Member=Component C29 Debug
+Added Member To Class: ClassName=U_MCU Member=Component C30 mode
+Added Member To Class: ClassName=U_Wireless_Master Member=Component R22 0
+Added Member To Class: ClassName=U_Led Status Member=Component R23 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R25 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R27 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R29 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R32 330
+Added Member To Class: ClassName=U_Led Status Member=Component R34 330
+Added Member To Class: ClassName=U_Led Status Member=Component R36 330
+Added Member To Class: ClassName=U_Led Status Member=Component R38 330
+Added Member To Class: ClassName=U_Led Status Member=Component R40 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R42 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R44 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R46 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R48 330
+Added Member To Class: ClassName=U_Led Status Member=Component R50 330
+Added Member To Class: ClassName=U_Led Status Member=Component R51 330
+Added Member To Class: ClassName=U_Led Status Member=Component R53 330
+Added Member To Class: ClassName=U_Led Status Member=Component R56 330
+Added Member To Class: ClassName=U_Led Status Member=Component R58 330
+Added Member To Class: ClassName=U_Led Status Member=Component R60 330
+Added Member To Class: ClassName=U_Led Status Member=Component R62 330
+Added Member To Class: ClassName=U_Led Status Member=Component R64 330
+Added Member To Class: ClassName=U_Led Status Member=Component R66 330
+Added Member To Class: ClassName=U_Led Status Member=Component R68 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R69 330
+Added Member To Class: ClassName=U_Led Status Member=Component R70 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R72 4.7k
+Added Member To Class: ClassName=U_Led Status Member=Component R74 330
+Added Member To Class: ClassName=U_Led Status Member=Component R76 330
+Added Member To Class: ClassName=U_Led Status Member=Component R77 330
+Added Member To Class: ClassName=U_Led Status Member=Component R79 330
+Added Member To Class: ClassName=U_Led Status Member=Component R82 330
+Add Class Member: Failed to add class member : Component SW3 SW

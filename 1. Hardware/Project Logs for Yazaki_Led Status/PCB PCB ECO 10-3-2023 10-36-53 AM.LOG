@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=U_Wireless_Master Member=C23
+Removed Member From Class: ClassName=U_Led Status Member=C24
+Change Component Comment : Designator=SW3 Old Comment=burn New Comment=RST
+Change Component Comment : Designator=SW2 Old Comment=rst New Comment=SW
+Added Member To Class: ClassName=U_Wireless_Master Member=Component C28 1µF
+Added Member To Class: ClassName=U_Led Status Member=Component C30 JP12x2
+Added Room: Name=U_Led Status
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

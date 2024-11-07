@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=3.3V Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=V_MCU Pin=C16-1
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=+5 Pin=R6-1
+Removed Member From Class: ClassName=U_Power Member=C14
+Removed Member From Class: ClassName=U_Power Member=C16
+Removed Member From Class: ClassName=U_Power Member=R6
+Add Pin To Net: Unknown Pin: Pin M1-101

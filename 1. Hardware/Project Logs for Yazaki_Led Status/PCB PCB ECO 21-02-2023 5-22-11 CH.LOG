@@ -1,0 +1,30 @@
+Added Component: Designator=IC2(SO8)
+Added Pin To Net: NetName=Control Modbus Pin=IC2-2
+Added Pin To Net: NetName=Control Modbus Pin=IC2-3
+Added Pin To Net: NetName=GND Pin=IC2-5
+Added Pin To Net: NetName=NetD5_1 Pin=IC2-6
+Added Pin To Net: NetName=NetD4_2 Pin=IC2-7
+Added Pin To Net: NetName=MAX3485 Pin=IC2-8
+Add Pin To Net: Unknown Pin: Pin M1-101
+Add Net: Net with name "led 1" already exists
+Add Net: Net with name "led 2" already exists
+Add Net: Net with name "led 3" already exists
+Add Net: Net with name "led 4" already exists
+Add Net: Net with name "led 5" already exists
+Add Net: Net with name "led 6" already exists
+Add Net: Net with name "led 7" already exists
+Add Net: Net with name "led 9" already exists
+Add Net: Net with name "led 10" already exists
+Add Net: Net with name "led 11" already exists
+Add Net: Net with name "led 12" already exists
+Add Net: Net with name "led 13" already exists
+Add Net: Net with name "led 14" already exists
+Add Net: Net with name "led 15" already exists
+Add Net: Net with name "led 16" already exists
+Add Net: Net with name "led 17" already exists
+Add Net: Net with name "led 18" already exists
+Add Net: Net with name "led 19" already exists
+Add Net: Net with name "led 20" already exists
+Add Net: Net with name "UART1_RX" already exists
+Add Net: Net with name "UART1_TX" already exists
+Added Member To Class: ClassName=U_Modbus RTU Member=Component IC2 MAX485

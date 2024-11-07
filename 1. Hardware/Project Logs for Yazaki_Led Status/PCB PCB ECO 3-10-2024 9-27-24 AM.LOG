@@ -1,0 +1,18 @@
+Added Component: Designator=TL1(PHAP3362)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PHAP3362/APEM/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Apem"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PHAP3362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PHAP3362/APEM/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=TL1-2
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetJDC1_1 Pin=JDC1-1
+Added Pin To Net: NetName=NetJDC1_1 Pin=TL1-1
+Added Net: Name=NetJDC1_1
+Added Member To Class: ClassName=U_Power Member=Component TL1 PHAP3362
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

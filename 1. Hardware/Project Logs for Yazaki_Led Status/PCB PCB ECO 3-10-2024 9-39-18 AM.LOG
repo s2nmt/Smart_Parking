@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Buzzer Pin=*1-1
+Removed Pin From Net: NetName=GND Pin=*1-2
+Added Pin To Net: NetName=3.3V Pin=*1-1
+Added Pin To Net: NetName=Buzzer Pin=*1-2
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

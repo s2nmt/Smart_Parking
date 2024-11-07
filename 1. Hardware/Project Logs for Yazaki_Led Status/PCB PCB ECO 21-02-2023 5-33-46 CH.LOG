@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=Modbus_B1 Pin=R10-1
+Removed Pin From Net: NetName=Modbus_B1 Pin=R17-1
+Added Pin To Net: NetName=UART1_RX Pin=IC2-1
+Added Pin To Net: NetName=UART1_TX Pin=IC2-4
+Add Pin To Net: Unknown Pin: Pin M1-101
+Added Pin To Net: NetName=UART1_TX Pin=R12-1
+Added Pin To Net: NetName=UART1_TX Pin=R13-2
+Added Pin To Net: NetName=UART1_RX Pin=R14-2
+Added Pin To Net: NetName=UART1_RX Pin=R15-1
+Added Pin To Net: NetName=UART1_TX Pin=R16-1
+Added Pin To Net: NetName=led 3 Pin=R28-1
+Added Pin To Net: NetName=led 4 Pin=R29-1
+Added Pin To Net: NetName=led 3 Pin=R36-2
+Added Pin To Net: NetName=led 4 Pin=R37-2
+Added Pin To Net: NetName=led 10 Pin=R43-1
+Added Pin To Net: NetName=led 13 Pin=R46-1
+Added Pin To Net: NetName=led 15 Pin=R48-1
+Added Pin To Net: NetName=led 10 Pin=R51-2
+Added Pin To Net: NetName=led 13 Pin=R54-2
+Added Pin To Net: NetName=led 15 Pin=R56-2
+Added Pin To Net: NetName=led 20 Pin=R71-1
+Added Pin To Net: NetName=led 17 Pin=R73-1
+Added Pin To Net: NetName=led 18 Pin=R74-1
+Added Pin To Net: NetName=led 17 Pin=R80-2
+Added Pin To Net: NetName=led 18 Pin=R81-2
+Added Pin To Net: NetName=led 20 Pin=R83-2
+Added Pin To Net: NetName=led 1 Pin=U2-15
+Added Pin To Net: NetName=led 2 Pin=U2-16
+Added Pin To Net: NetName=led 6 Pin=U2-19
+Added Pin To Net: NetName=led 7 Pin=U2-20
+Added Pin To Net: NetName=led 8 Pin=U2-21
+Added Pin To Net: NetName=led 16 Pin=U2-22
+Added Pin To Net: NetName=led 19 Pin=U2-25
+Added Pin To Net: NetName=led 5 Pin=U2-28
+Added Pin To Net: NetName=led 9 Pin=U2-42
+Added Pin To Net: NetName=led 11 Pin=U2-44
+Added Pin To Net: NetName=led 12 Pin=U2-45
+Added Pin To Net: NetName=led 14 Pin=U2-47
+Add Net: Net with name "Modbus_B1" already exists

@@ -1,0 +1,246 @@
+Removed Pin From Net: NetName=OSC_OUT Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=+5 Pin=C26-2
+Removed Pin From Net: NetName=+5 Pin=C27-1
+Removed Pin From Net: NetName=+5 Pin=C30-11
+Removed Pin From Net: NetName=+5 Pin=C30-12
+Removed Pin From Net: NetName=+5 Pin=C30-13
+Removed Pin From Net: NetName=+5 Pin=C30-14
+Removed Pin From Net: NetName=+5 Pin=IC2-8
+Removed Pin From Net: NetName=IN_1 Pin=J1-1
+Removed Pin From Net: NetName=IN_2 Pin=J1-2
+Removed Pin From Net: NetName=Modbus_A1 Pin=J1-3
+Removed Pin From Net: NetName=Modbus_B1 Pin=J1-4
+Removed Pin From Net: NetName=IN_1 Pin=J2-1
+Removed Pin From Net: NetName=IN_2 Pin=J2-2
+Removed Pin From Net: NetName=Modbus_A1 Pin=J2-3
+Removed Pin From Net: NetName=Modbus_B1 Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=LED4-2
+Removed Pin From Net: NetName=GND Pin=LED5-2
+Removed Pin From Net: NetName=GND Pin=LED6-2
+Removed Pin From Net: NetName=GND Pin=LED7-2
+Removed Pin From Net: NetName=GND Pin=LED8-2
+Removed Pin From Net: NetName=GND Pin=LED9-2
+Removed Pin From Net: NetName=GND Pin=LED10-2
+Removed Pin From Net: NetName=GND Pin=LED11-2
+Removed Pin From Net: NetName=GND Pin=LED12-2
+Removed Pin From Net: NetName=GND Pin=LED13-2
+Removed Pin From Net: NetName=GND Pin=LED14-2
+Removed Pin From Net: NetName=GND Pin=LED15-2
+Removed Pin From Net: NetName=GND Pin=LED16-2
+Removed Pin From Net: NetName=GND Pin=LED17-2
+Removed Pin From Net: NetName=GND Pin=LED18-2
+Removed Pin From Net: NetName=GND Pin=LED19-2
+Removed Pin From Net: NetName=GND Pin=LED20-2
+Removed Pin From Net: NetName=GND Pin=LED21-2
+Removed Pin From Net: NetName=GND Pin=LED22-2
+Removed Pin From Net: NetName=GND Pin=LED23-2
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q3-1
+Removed Pin From Net: NetName=GND Pin=Q4-1
+Removed Pin From Net: NetName=GND Pin=Q5-1
+Removed Pin From Net: NetName=GND Pin=Q6-1
+Removed Pin From Net: NetName=GND Pin=Q7-1
+Removed Pin From Net: NetName=GND Pin=Q8-1
+Removed Pin From Net: NetName=GND Pin=Q9-1
+Removed Pin From Net: NetName=GND Pin=Q10-1
+Removed Pin From Net: NetName=GND Pin=Q11-1
+Removed Pin From Net: NetName=GND Pin=Q12-1
+Removed Pin From Net: NetName=GND Pin=Q13-1
+Removed Pin From Net: NetName=GND Pin=Q14-1
+Removed Pin From Net: NetName=GND Pin=Q15-1
+Removed Pin From Net: NetName=GND Pin=Q16-1
+Removed Pin From Net: NetName=GND Pin=Q17-1
+Removed Pin From Net: NetName=GND Pin=Q18-1
+Removed Pin From Net: NetName=GND Pin=Q19-1
+Removed Pin From Net: NetName=GND Pin=Q20-1
+Removed Pin From Net: NetName=GND Pin=Q21-1
+Removed Pin From Net: NetName=EN_BW16 Pin=R5-2
+Removed Pin From Net: NetName=SWCLK Pin=R6-1
+Removed Pin From Net: NetName=+5 Pin=R19-1
+Removed Pin From Net: NetName=OSC32_IN Pin=U2-2
+Removed Pin From Net: NetName=OSC32_OUT Pin=U2-3
+Removed Pin From Net: NetName=V_BAT Pin=U2-4
+Removed Pin From Net: NetName=3.3V Pin=U2-6
+Removed Pin From Net: NetName=GND Pin=U2-7
+Removed Pin From Net: NetName=OSC_IN Pin=U2-8
+Removed Pin From Net: NetName=OSC_OUT Pin=U2-9
+Removed Pin From Net: NetName=RST_STM Pin=U2-10
+Removed Pin From Net: NetName=UART2_TX Pin=U2-13
+Removed Pin From Net: NetName=UART2_RX Pin=U2-14
+Removed Pin From Net: NetName=UART1_TX Pin=U2-29
+Removed Pin From Net: NetName=UART1_RX Pin=U2-32
+Removed Pin From Net: NetName=DIO Pin=U2-35
+Removed Pin From Net: NetName=SWCLK Pin=U2-36
+Removed Pin From Net: NetName=OSC_OUT Pin=X2-3
+Removed Member From Class: ClassName=U_MCU Member=C24
+Removed Member From Class: ClassName=U_MCU Member=C25
+Removed Member From Class: ClassName=U_Power Member=J1
+Removed Member From Class: ClassName=U_Power Member=J2
+Change Footprint: Footprint Not Found JP4-C1T
+Change Footprint: Footprint Not Found JP4-C1T
+Change Component Footprint: Designator=U2 Old Footprint=STM32G070CBT6 New Footprint=QFP50P900X900X160-48N
+Change Component Comment : Designator=C22 Old Comment=mode New Comment=JP4
+Change Component Comment : Designator=C23 Old Comment=mode New Comment=JP4
+Change Component Comment : Designator=U2 Old Comment=STM32G070CBT6 New Comment=STM32F103C8T6
+Change Component Designator: OldDesignator=C17 NewDesignator=C18
+Change Component Designator: OldDesignator=C18 NewDesignator=C19
+Change Component Designator: OldDesignator=C19 NewDesignator=C20
+Change Component Designator: OldDesignator=C21 NewDesignator=C17
+Change Component Designator: OldDesignator=C26 NewDesignator=C24
+Change Component Designator: OldDesignator=C27 NewDesignator=C25
+Change Component Designator: OldDesignator=C28 NewDesignator=C26
+Change Component Designator: OldDesignator=C29 NewDesignator=C27
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED4
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R23
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change component parameters: Designator = "C22" ("C22"); Footprint = "J2-D1T"; UniqueID = "\CMCIEMWU\CYPZCZES" ("\CMCIEMWU\CYPZCZES")
+Change component parameters (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "613004143121"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "J2-D1T"; UniqueID = "\CMCIEMWU\NZGKCOQT" ("\CMCIEMWU\NZGKCOQT")
+Change component parameters (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partNo"; Value = "613004143121"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "STM32G070CBT6"; UniqueID = "\CMCIEMWU\AMMGIVXY" ("\CMCIEMWU\AMMGIVXY")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/STM32F103C8T6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "LQFP-48 STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/STM32F103C8T6/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F103C8T6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found JP4-C1T
+Added Component: Designator=JDC1(DC-IN)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jack DC5.5x2.1MM DC5501"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED-52)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Pin2
+Add Component: Footprint Not Found RES-SMD-0603
+Add Component: Footprint Not Found RES-SMD-0603
+Add Pin To Net: Unknown Pin: Pin C21-3
+Add Pin To Net: Unknown Pin: Pin C21-4
+Add Pin To Net: Unknown Pin: Pin C23-3
+Add Pin To Net: Unknown Pin: Pin C23-4
+Added Pin To Net: NetName=IN_1 Pin=JDC1-1
+Added Pin To Net: NetName=IN_2 Pin=JDC1-2
+Added Pin To Net: NetName=IN_2 Pin=JDC1-3
+Added Pin To Net: NetName=GND Pin=LED2-2
+Add Pin To Net: Unknown Pin: Pin LS1-2
+Added Pin To Net: NetName=EN_BW16 Pin=R7-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-2
+Added Pin To Net: NetName=UART2_RX Pin=R22-1
+Added Pin To Net: NetName=UART2_TX Pin=R23-1
+Added Pin To Net: NetName=V_BAT Pin=U2-1
+Added Pin To Net: NetName=OSC_IN Pin=U2-3
+Added Pin To Net: NetName=OSC_OUT Pin=U2-4
+Added Pin To Net: NetName=OSC_IN Pin=U2-5
+Added Pin To Net: NetName=OSC_OUT Pin=U2-6
+Added Pin To Net: NetName=RST_STM Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=3.3V Pin=U2-9
+Added Pin To Net: NetName=UART2_TX Pin=U2-12
+Added Pin To Net: NetName=UART2_RX Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U2-23
+Added Pin To Net: NetName=3.3V Pin=U2-24
+Added Pin To Net: NetName=DIO Pin=U2-34
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=3.3V Pin=U2-36
+Added Pin To Net: NetName=SWCLK Pin=U2-37
+Added Pin To Net: NetName=UART1_TX Pin=U2-42
+Added Pin To Net: NetName=UART1_RX Pin=U2-43
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=3.3V Pin=U2-48
+Change Net Name : Old Net Name=NetC29_1 New Net Name=NetC27_1
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLED3_1
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetLED4_1
+Added Pin To Net: NetName=Buzzer Pin=U2-20
+Added Net: Name=Buzzer
+Added Pin To Net: NetName=CS Pin=C22-1
+Added Pin To Net: NetName=CS Pin=U2-14
+Added Net: Name=CS
+Added Pin To Net: NetName=GreenLed Pin=LED2-3
+Added Pin To Net: NetName=GreenLed Pin=U2-21
+Added Net: Name=GreenLed
+Added Pin To Net: NetName=I2C1_SCL Pin=U2-45
+Added Net: Name=I2C1_SCL
+Added Net: Name=I2C1_SDA
+Added Pin To Net: NetName=MAX3485 Pin=C24-2
+Added Pin To Net: NetName=MAX3485 Pin=C25-1
+Added Pin To Net: NetName=MAX3485 Pin=IC2-8
+Added Pin To Net: NetName=MAX3485 Pin=R21-1
+Added Net: Name=MAX3485
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=X2-3
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U2-44
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U2-11
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=PN532_REQ Pin=C23-2
+Added Pin To Net: NetName=PN532_REQ Pin=U2-19
+Added Net: Name=PN532_REQ
+Added Pin To Net: NetName=PN532_RST Pin=C23-1
+Added Pin To Net: NetName=PN532_RST Pin=U2-18
+Added Net: Name=PN532_RST
+Added Pin To Net: NetName=RedLed Pin=LED2-1
+Added Pin To Net: NetName=RedLed Pin=U2-22
+Added Net: Name=RedLed
+Added Pin To Net: NetName=SPI1_MISO Pin=U2-16
+Added Net: Name=SPI1_MISO
+Added Pin To Net: NetName=SPI1_MOSI Pin=C22-2
+Added Pin To Net: NetName=SPI1_MOSI Pin=U2-17
+Added Net: Name=SPI1_MOSI
+Added Pin To Net: NetName=SPI1_SCK Pin=U2-15
+Added Net: Name=SPI1_SCK
+Added Member To Class: ClassName=U_Power Member=Component JDC1 Jack DC5.5x2.1
+Added Member To Class: ClassName=U_MCU Member=Component LED2 LED
+Add Class Member: Failed to add class member : Component LS1 TMB12A05
+Add Class Member: Failed to add class member : Component R8 0k
+Add Class Member: Failed to add class member : Component R9 0k
+Added Member To Class: ClassName=U_Wireless_Master Member=Component SW3 Burn
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

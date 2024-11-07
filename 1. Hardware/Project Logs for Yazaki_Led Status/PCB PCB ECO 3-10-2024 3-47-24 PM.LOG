@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetF1_1 Pin=TL1-2
+Removed Member From Class: ClassName=U_Power Member=TL1
+Added Component: Designator=HD6(Header_2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_1 Pin=HD6-2
+Added Pin To Net: NetName=NetHD6_1 Pin=HD6-1
+Added Pin To Net: NetName=NetHD6_1 Pin=JDC1-1
+Added Net: Name=NetHD6_1
+Added Member To Class: ClassName=U_Power Member=Component HD6 Header 2
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master

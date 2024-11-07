@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=OUT 1 Pin=R58-2
+Removed Pin From Net: NetName=OUT 2 Pin=R59-2
+Removed Pin From Net: NetName=OUT 20 Pin=R60-2
+Removed Pin From Net: NetName=OUT 3 Pin=R61-2
+Removed Pin From Net: NetName=OUT 19 Pin=R62-2
+Removed Pin From Net: NetName=OUT 4 Pin=R63-2
+Removed Pin From Net: NetName=OUT 18 Pin=R64-2
+Removed Pin From Net: NetName=OUT 5 Pin=R65-2
+Removed Pin From Net: NetName=OUT 17 Pin=R66-2
+Removed Pin From Net: NetName=OUT 6 Pin=R67-2
+Removed Pin From Net: NetName=OUT 16 Pin=R68-2
+Removed Pin From Net: NetName=OUT 7 Pin=R69-2
+Removed Pin From Net: NetName=OUT 15 Pin=R70-2
+Removed Pin From Net: NetName=OUT 8 Pin=R72-2
+Removed Pin From Net: NetName=OUT 14 Pin=R76-2
+Removed Pin From Net: NetName=OUT 9 Pin=R77-2
+Removed Pin From Net: NetName=OUT 13 Pin=R78-2
+Removed Pin From Net: NetName=OUT 10 Pin=R79-2
+Removed Pin From Net: NetName=OUT 12 Pin=R84-2
+Removed Pin From Net: NetName=OUT 11 Pin=R85-2
+Add Component: Footprint Not Found VIT - 3.2MM_2
+Add Component: Footprint Not Found VIT - 3.2MM_2
+Add Component: Footprint Not Found VIT - 3.2MM_2
+Add Component: Footprint Not Found VIT - 3.2MM_2
+Add Component: Footprint Not Found Header 4
+Add Pin To Net: Unknown Pin: Pin M5-101
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P1-4
+Added Pin To Net: NetName=OUT 2 Pin=R58-2
+Added Pin To Net: NetName=OUT 4 Pin=R59-2
+Added Pin To Net: NetName=OUT 1 Pin=R60-2
+Added Pin To Net: NetName=OUT 6 Pin=R61-2
+Added Pin To Net: NetName=OUT 3 Pin=R62-2
+Added Pin To Net: NetName=OUT 8 Pin=R63-2
+Added Pin To Net: NetName=OUT 5 Pin=R64-2
+Added Pin To Net: NetName=OUT 10 Pin=R65-2
+Added Pin To Net: NetName=OUT 12 Pin=R67-2
+Added Pin To Net: NetName=OUT 9 Pin=R68-2
+Added Pin To Net: NetName=OUT 14 Pin=R69-2
+Added Pin To Net: NetName=OUT 11 Pin=R70-2
+Added Pin To Net: NetName=OUT 16 Pin=R72-2
+Added Pin To Net: NetName=OUT 13 Pin=R76-2
+Added Pin To Net: NetName=OUT 18 Pin=R77-2
+Added Pin To Net: NetName=OUT 15 Pin=R78-2
+Added Pin To Net: NetName=OUT 20 Pin=R79-2
+Added Pin To Net: NetName=OUT 17 Pin=R84-2
+Added Pin To Net: NetName=OUT 19 Pin=R85-2
+Add Net: Net with name "led 1" already exists
+Add Net: Net with name "led 2" already exists
+Add Net: Net with name "led 3" already exists
+Add Net: Net with name "led 4" already exists
+Add Net: Net with name "led 5" already exists
+Add Net: Net with name "led 6" already exists
+Add Net: Net with name "led 7" already exists
+Add Net: Net with name "led 8" already exists
+Add Net: Net with name "led 9" already exists
+Add Net: Net with name "led 10" already exists
+Add Net: Net with name "led 11" already exists
+Add Net: Net with name "led 12" already exists
+Add Net: Net with name "led 13" already exists
+Add Net: Net with name "led 14" already exists
+Add Net: Net with name "led 15" already exists
+Add Net: Net with name "led 16" already exists
+Add Net: Net with name "led 17" already exists
+Add Net: Net with name "led 18" already exists
+Add Net: Net with name "led 19" already exists
+Add Net: Net with name "led 20" already exists
+Add Net: Net with name "UART1_RX" already exists
+Add Net: Net with name "UART1_TX" already exists
+Add Class Member: Failed to add class member : Component M1 VIT - 3.2mm
+Add Class Member: Failed to add class member : Component M2 VIT - 3.2mm
+Add Class Member: Failed to add class member : Component M3 VIT - 3.2mm
+Add Class Member: Failed to add class member : Component M4 VIT - 3.2mm
+Add Class Member: Failed to add class member : Component P1 Header 4
+Added Member To Class: ClassName=U_Led Status Member=Component R58 330
+Added Member To Class: ClassName=U_Led Status Member=Component R59 330
+Added Member To Class: ClassName=U_Led Status Member=Component R60 330
+Added Member To Class: ClassName=U_Led Status Member=Component R61 330
+Added Member To Class: ClassName=U_Led Status Member=Component R62 330
+Added Member To Class: ClassName=U_Led Status Member=Component R63 330
+Added Member To Class: ClassName=U_Led Status Member=Component R64 330
+Added Member To Class: ClassName=U_Led Status Member=Component R65 330
+Added Room: Name=U_Led Status
+Added Room: Name=U_MCU
+Added Room: Name=U_Modbus RTU
+Added Room: Name=U_Power
+Added Room: Name=U_Wireless_Master
+Added Room: Name=Yazaki Led
