@@ -42,7 +42,7 @@ The RFID/NFC reader:
 The Model:
 
 <p align="center">
-  <img src="4.%20Image/mohinh.jpg" alt="Alt text" width="100%"/>                               
+  <img src="4.%20Image/model.jpg" alt="Alt text" width="100%"/>                               
 </p>
 
 
