@@ -33,9 +33,13 @@ The project includes PCB design, firmware development for the MCU, training a YO
 
 - Buid software interface license plate detection.
 
+The RFID/NFC reader:
+
 <p align="center">
-  <img src="4.%20Image/case1.png" alt="Alt text" width="60%"/>
+  <img src="4.%20Image/case1.png" alt="Alt text" width="80%"/>
 </p>
+
+The Model:
 
 <p align="center">
   <img src="4.%20Image/mohinh.jpg" alt="Alt text" width="100%"/>                               
