@@ -34,11 +34,11 @@ The project includes PCB design, firmware development for the MCU, training a YO
 - Buid software interface license plate detection.
 
 <p align="center">
-  <img src="4.%20Image/image.png" alt="Alt text" width="60%" style="transform: rotate(90deg);" />
+  <img src="4.%20Image/case1.png" alt="Alt text" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="4.%20Image/mohinh.jpg" alt="Alt text" width="100%"/>
+  <img src="4.%20Image/mohinh.jpg" alt="Alt text" width="100%"/>                               
 </p>
 
 
