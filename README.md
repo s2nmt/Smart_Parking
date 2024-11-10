@@ -26,7 +26,7 @@ The project includes PCB design, firmware development for the MCU, training a YO
 3. Software
 
 <p align="center">
-  <img src="4.%20Image/software.jpg" alt="Alt text" width="100%"/>
+  <img src="4.%20Image/softwar.jpg" alt="Alt text" width="100%"/>
 </p>
 
 - Trainning YOLO v5 model for license plate detection.
@@ -42,7 +42,7 @@ The RFID/NFC reader:
 The Model:
 
 <p align="center">
-  <img src="4.%20Image/mohinh.jpg" alt="Alt text" width="100%"/>                               
+  <img src="4.%20Image/model.jpg" alt="Alt text" width="100%"/>                               
 </p>
 
 
