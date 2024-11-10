@@ -36,13 +36,13 @@ The project includes PCB design, firmware development for the MCU, training a YO
 The RFID/NFC reader:
 
 <p align="center">
-  <img src="4.%20Image/case1.png" alt="Alt text" width="80%"/>
+  <img src="4.%20Image/image.png" alt="Alt text" width="80%"/>
 </p>
 
 The Model:
 
 <p align="center">
-  <img src="4.%20Image/model.jpg" alt="Alt text" width="100%"/>                               
+  <img src="4.%20Image/mohinh.jpg" alt="Alt text" width="100%"/>                               
 </p>
 
 
