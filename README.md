@@ -22,11 +22,26 @@ The project includes PCB design, firmware development for the MCU, training a YO
 <p align="center">
   <img src="4.%20Image/case.jpg" alt="Alt text" width="80%"/>
 </p>
+
 3. Software
+
+<p align="center">
+  <img src="4.%20Image/software.jpg" alt="Alt text" width="80%"/>
+</p>
 
 - Trainning YOLO v5 model for license plate detection.
 
 - Buid software interface license plate detection.
+
+<p align="center">
+  <img src="4.%20Image/image.png" alt="Alt text" width="80%" style="transform: rotate(90deg);" />
+</p>
+
+<p align="center">
+  <img src="4.%20Image/mohinh.jpg" alt="Alt text" width="80%"/>
+</p>
+
+
 
 **Author** Minh Tuan
 
